@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bandimahireddy/react-demo-todolist/static/css/main.8d5a0a4e.chunk.css",
-    "main.js": "/bandimahireddy/react-demo-todolist/static/js/main.0f2b164d.chunk.js",
-    "main.js.map": "/bandimahireddy/react-demo-todolist/static/js/main.0f2b164d.chunk.js.map",
-    "runtime-main.js": "/bandimahireddy/react-demo-todolist/static/js/runtime-main.059d7567.js",
-    "runtime-main.js.map": "/bandimahireddy/react-demo-todolist/static/js/runtime-main.059d7567.js.map",
-    "static/js/2.0512a152.chunk.js": "/bandimahireddy/react-demo-todolist/static/js/2.0512a152.chunk.js",
-    "static/js/2.0512a152.chunk.js.map": "/bandimahireddy/react-demo-todolist/static/js/2.0512a152.chunk.js.map",
-    "index.html": "/bandimahireddy/react-demo-todolist/index.html",
-    "precache-manifest.dac4d4d64801e38ac039e353943ce659.js": "/bandimahireddy/react-demo-todolist/precache-manifest.dac4d4d64801e38ac039e353943ce659.js",
-    "service-worker.js": "/bandimahireddy/react-demo-todolist/service-worker.js",
-    "static/css/main.8d5a0a4e.chunk.css.map": "/bandimahireddy/react-demo-todolist/static/css/main.8d5a0a4e.chunk.css.map",
-    "static/js/2.0512a152.chunk.js.LICENSE.txt": "/bandimahireddy/react-demo-todolist/static/js/2.0512a152.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/bandimahireddy/react-demo-todolist/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-demo-todolist/static/css/main.8d5a0a4e.chunk.css",
+    "main.js": "/react-demo-todolist/static/js/main.579101d3.chunk.js",
+    "main.js.map": "/react-demo-todolist/static/js/main.579101d3.chunk.js.map",
+    "runtime-main.js": "/react-demo-todolist/static/js/runtime-main.b33dce0c.js",
+    "runtime-main.js.map": "/react-demo-todolist/static/js/runtime-main.b33dce0c.js.map",
+    "static/js/2.0512a152.chunk.js": "/react-demo-todolist/static/js/2.0512a152.chunk.js",
+    "static/js/2.0512a152.chunk.js.map": "/react-demo-todolist/static/js/2.0512a152.chunk.js.map",
+    "index.html": "/react-demo-todolist/index.html",
+    "precache-manifest.0079a73c837b277f022416d5ac61412b.js": "/react-demo-todolist/precache-manifest.0079a73c837b277f022416d5ac61412b.js",
+    "service-worker.js": "/react-demo-todolist/service-worker.js",
+    "static/css/main.8d5a0a4e.chunk.css.map": "/react-demo-todolist/static/css/main.8d5a0a4e.chunk.css.map",
+    "static/js/2.0512a152.chunk.js.LICENSE.txt": "/react-demo-todolist/static/js/2.0512a152.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-demo-todolist/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.059d7567.js",
+    "static/js/runtime-main.b33dce0c.js",
     "static/js/2.0512a152.chunk.js",
     "static/css/main.8d5a0a4e.chunk.css",
-    "static/js/main.0f2b164d.chunk.js"
+    "static/js/main.579101d3.chunk.js"
   ]
 }
