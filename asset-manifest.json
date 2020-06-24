@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-demo-todolist/static/css/main.283476dc.chunk.css",
+    "main.css": "/react-demo-todolist/static/css/main.3a8f2d3d.chunk.css",
     "main.js": "/react-demo-todolist/static/js/main.579101d3.chunk.js",
     "main.js.map": "/react-demo-todolist/static/js/main.579101d3.chunk.js.map",
     "runtime-main.js": "/react-demo-todolist/static/js/runtime-main.b33dce0c.js",
@@ -8,16 +8,16 @@
     "static/js/2.0512a152.chunk.js": "/react-demo-todolist/static/js/2.0512a152.chunk.js",
     "static/js/2.0512a152.chunk.js.map": "/react-demo-todolist/static/js/2.0512a152.chunk.js.map",
     "index.html": "/react-demo-todolist/index.html",
-    "precache-manifest.1b9fa3d1c17f011ba63aa424b5cf41d3.js": "/react-demo-todolist/precache-manifest.1b9fa3d1c17f011ba63aa424b5cf41d3.js",
+    "precache-manifest.21c3d62de2806ab79ebe0b7e80c13082.js": "/react-demo-todolist/precache-manifest.21c3d62de2806ab79ebe0b7e80c13082.js",
     "service-worker.js": "/react-demo-todolist/service-worker.js",
-    "static/css/main.283476dc.chunk.css.map": "/react-demo-todolist/static/css/main.283476dc.chunk.css.map",
+    "static/css/main.3a8f2d3d.chunk.css.map": "/react-demo-todolist/static/css/main.3a8f2d3d.chunk.css.map",
     "static/js/2.0512a152.chunk.js.LICENSE.txt": "/react-demo-todolist/static/js/2.0512a152.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-demo-todolist/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b33dce0c.js",
     "static/js/2.0512a152.chunk.js",
-    "static/css/main.283476dc.chunk.css",
+    "static/css/main.3a8f2d3d.chunk.css",
     "static/js/main.579101d3.chunk.js"
   ]
 }
